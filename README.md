@@ -1,2 +1,4 @@
-# WikiBot
-a bot searching the wikipedia to serve you answers
+# WikiBot #
+
+### Getting Started ###
+WikiBot uses the Wikipedia media index.
